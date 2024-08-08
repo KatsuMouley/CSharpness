@@ -1,0 +1,14 @@
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\autologon\Desktop\Nova pasta\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
