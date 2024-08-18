@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             double convertido = 0; // Initialize the variable
-            Console.WriteLine("Digite um valor em real: ");
+            Console.WriteLine("Program: Digite um valor em real: ");
             double value;
             while (!double.TryParse(Console.ReadLine(), out value))
             {
