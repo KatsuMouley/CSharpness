@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     {
         Random rand = new();
-        int sizeOfArray = rand.Next(5, 10), temp;
+        int sizeOfArray = rand.Next(5, 15), temp;
         int[] intArray = new int[sizeOfArray];
 
         for (int i = 0; i < intArray.Length; i++)
@@ -28,12 +28,12 @@ class Program
             }
         }
         bool swapped = false;
-
+        // My solution
         for (int i = 0; i < intArray.Length - 1; i++)
         {
             swapped = false;
             //the outside loop verifys if the swap occured
-            for (int j = 0; j < intArray.Length - i/*with this we verify the value before*/ - 1; j++)//NOW I FINALLY understand this :3
+            for (int j = 0; j < intArray.Length - i - 1; j++)//NOW I FINALLY understand this :3
             {
                 //the inner loop do the swap
                 if (intArray[j] > intArray[j + 1])
@@ -48,6 +48,26 @@ class Program
             if (swapped == false)
                 break;
         }
+
+        // Teacher solution
+
+        // do
+        // {
+        //     swapped = false;
+        //     //the outside loop verifys if the swap occured
+        //     for (int i = 0; i < intArray.Length - 1; i++)//NOW I FINALLY understand this :3
+        //     {
+        //         //the inner loop do the swap
+        //         if (intArray[i] > intArray[i + 1])
+        //         {
+
+        //             temp = intArray[i];
+        //             intArray[i] = intArray[i + 1];
+        //             intArray[i + 1] = temp;
+        //             swapped = true;
+        //         }
+        //     }
+        // } while (swapped == true);
 
         Console.WriteLine("Sorted value of the array");
 
