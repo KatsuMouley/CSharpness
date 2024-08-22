@@ -1,0 +1,15 @@
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.AssemblyInfo.cs
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.sourcelink.json
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\bin\Debug\net8.0\ExercisesList.exe
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\bin\Debug\net8.0\ExercisesList.deps.json
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\bin\Debug\net8.0\ExercisesList.runtimeconfig.json
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\bin\Debug\net8.0\ExercisesList.dll
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\bin\Debug\net8.0\ExercisesList.pdb
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.dll
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\refint\ExercisesList.dll
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.pdb
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ExercisesList.genruntimeconfig.cache
+C:\Users\autologon\Desktop\love love love\CSharpness\ExercisesList\obj\Debug\net8.0\ref\ExercisesList.dll
