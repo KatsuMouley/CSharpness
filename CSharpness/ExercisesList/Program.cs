@@ -27,27 +27,29 @@ class Program
                 Console.Write(intArray[i] + ".\n");
             }
         }
-        bool swapped = false;
-        // My solution
-        for (int i = 0; i < intArray.Length - 1; i++)
-        {
-            swapped = false;
-            //the outside loop verifys if the swap occured
-            for (int j = 0; j < intArray.Length - i - 1; j++)//NOW I FINALLY understand this :3
-            {
-                //the inner loop do the swap
-                if (intArray[j] > intArray[j + 1])
-                {
 
-                    temp = intArray[j];
-                    intArray[j] = intArray[j + 1];
-                    intArray[j + 1] = temp;
-                    swapped = true;
-                }
-            }
-            if (swapped == false)
-                break;
-        }
+        Array.Sort(intArray);
+        // bool swapped = false;
+        // // My solution
+        // for (int i = 0; i < intArray.Length - 1; i++)
+        // {
+        //     swapped = false;
+        //     //the outside loop verifys if the swap occured
+        //     for (int j = 0; j < intArray.Length - i - 1; j++)//NOW I FINALLY understand this :3
+        //     {
+        //         //the inner loop do the swap
+        //         if (intArray[j] > intArray[j + 1])
+        //         {
+
+        //             temp = intArray[j];
+        //             intArray[j] = intArray[j + 1];
+        //             intArray[j + 1] = temp;
+        //             swapped = true;
+        //         }
+        //     }
+        //     if (swapped == false)
+        //         break;
+        // }
 
         // Teacher solution
 
@@ -55,7 +57,7 @@ class Program
         // {
         //     swapped = false;
         //     //the outside loop verifys if the swap occured
-        //     for (int i = 0; i < intArray.Length - 1; i++)//NOW I FINALLY understand this :3
+        //     for (int i = 0; i < intArray.Length - 1; i++)
         //     {
         //         //the inner loop do the swap
         //         if (intArray[i] > intArray[i + 1])
