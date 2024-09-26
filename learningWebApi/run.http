@@ -1,0 +1,6 @@
+### Ola Mundo
+GET http://localhost:5085/ola%20mundo
+
+### listar consoles
+GET http://localhost:5085/console/listar
+
