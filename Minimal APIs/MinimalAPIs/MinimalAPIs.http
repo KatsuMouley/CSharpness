@@ -1,0 +1,10 @@
+@HostAddress = http://localhost:5209
+
+GET {{HostAddress}}/ReadList
+Accept: application/json
+
+
+GET {{HostAddress}}/CreateNewEntity
+Accept: application/json
+
+###
